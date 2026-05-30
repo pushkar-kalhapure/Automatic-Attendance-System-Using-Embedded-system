@@ -12,8 +12,10 @@ This project uses an ESP32 and MFRC522 RFID reader to automate attendance record
 ## Hardware Used
 - ESP32
 - MFRC522 RFID Module
+- MIFARE RFID Cards/Tags
 - RFID Cards
 - Jumper Wires
+- Breadboard 
 
 ## Files
 
