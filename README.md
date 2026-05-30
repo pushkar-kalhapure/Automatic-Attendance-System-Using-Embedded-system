@@ -19,8 +19,17 @@ This project uses an ESP32 and MFRC522 RFID reader to automate attendance record
 
 ## Files
 
+### ESP32_Attendance_System.ino
+Main attendance system code.
+
 ### RFID_Card_Configuration.ino
-Used to write student/card holder names to RFID cards and verify stored data.
+Used to write student information to RFID cards.
+
+### Google_Sheets_Integration.gs
+Google Apps Script used to receive attendance data and update the spreadsheet.
+
+### Circuit_Diagram.png
+Hardware wiring diagram of the project.
 
 ## Author
 Pushkar Kalhapure
